@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Jagdale</h1>
-<h3 align="center">A computer science student with a keen interest in diving into data science and artificial intelligenceIndia</h3>
+<h3 align="center">A computer science student with a keen interest in diving into data science and artificial intelligence from India</h3>
 
 - 🌱 I’m currently learning **Google Data Analytics course**
 
