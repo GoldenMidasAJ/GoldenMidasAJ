@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Jagdale</h1>
 <h3 align="center">A computer science student with a keen interest in diving into data science and artificial intelligence from India</h3>
 
-- 🌱 I’m currently learning **Google Data Analytics course**
 
 - 📫 How to reach me **adityakj3000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@adityajag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adityajag" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya jagdale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya jagdale" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-jagdale-4662482b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya jagdale" height="30" width="40" /></a>
 <a href="https://kaggle.com/aditya jagdale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditya jagdale" height="30" width="40" /></a>
 </p>
 
